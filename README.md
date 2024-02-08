@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
+![Man hours](https://manhours.aiursoft.cn/r/github.com/anduin2017/howtocook.svg)
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
@@ -125,6 +126,7 @@
 - [麻辣香锅](./dishes/meat_dish/麻辣香锅.md)
 - [麻婆豆腐](./dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
 - [梅菜扣肉](./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
+- [奶酪培根通心粉](./dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md)
 - [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
 - [黔式腊肠娃娃菜](./dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md)
 - [青椒土豆炒肉](./dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
@@ -207,6 +209,7 @@
 - [溏心蛋](./dishes/breakfast/溏心蛋.md)
 - [吐司果酱](./dishes/breakfast/吐司果酱.md)
 - [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
+- [微波炉荷包蛋](./dishes/breakfast/微波炉荷包蛋.md)
 - [燕麦鸡蛋饼](./dishes/breakfast/燕麦鸡蛋饼.md)
 - [蒸花卷](./dishes/breakfast/蒸花卷.md)
 - [蒸水蛋](./dishes/breakfast/蒸水蛋.md)
